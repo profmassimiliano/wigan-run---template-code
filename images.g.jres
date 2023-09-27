@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAREREREREREREREREREREREf//////ERER/xERERERERHxHxERERERERH/EREREREREREfERERERERER8RERERERH/HxERERER8R8RERERERHxEREREREREf//////EREREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "merit"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////8AAP///////wAA/x8R//8AAAD/HxH//wAAAP8fEf//AAAA//////8AAAD//////wAAAP8R///////x/xH/////8P//Ef///wDw/wAAAAAAAP/xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cow"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAJCZAAAAAAAAkAAAAAAA/wCQAAAAAAD/M5OZme7u7v8zk5mZ7u7u/zOTmZkOAAAAM5OZme7u7v8zk5mZ7u7u/wCQAAAAAAD/AJAAAAAAAP8AkJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "teacher"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
